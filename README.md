@@ -136,3 +136,10 @@ MIT License
 ## 作者
 
 Yang Mengran ([@zcarefreelove](https://github.com/zcarefreelove))
+
+## 界面预览
+
+![Web界面](screenshots/web-ui.png)
+
+![对话演示](screenshots/demo-conversation.png)
+
